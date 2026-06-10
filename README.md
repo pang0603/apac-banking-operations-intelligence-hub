@@ -55,9 +55,6 @@ Our pipeline captures an overall failure rate of **11.1%** (221 failures). While
 * **The Takeaway:** The complete absence of a downward trend proves that current business-as-usual operations are failing to drive structural improvements, confirming that the current systems have reached their maximum capacity and require direct automation intervention.
 
 ---
-
-## 4. Visualized Operational Performance
-
 ## 4. Visualized Operational Performance
 
 ### A. Failure Rate Heatmap (Channel × Product Line Matrix)
