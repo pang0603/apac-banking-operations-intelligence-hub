@@ -58,17 +58,17 @@ Our pipeline captures an overall failure rate of **11.1%** (221 failures). While
 
 ## 4. Visualized Operational Performance
 
-Our analytical visuals are tracked and hosted directly within this repository to monitor core infrastructure risk vulnerabilities:
+## 4. Visualized Operational Performance
 
-### A. Regional Performance Disparity & Channel Vulnerabilities
-Our analysis highlights the stark operational variance across ASEAN hubs alongside processing channel vulnerabilities:
+### A. Failure Rate Heatmap (Channel × Product Line Matrix)
+The visualization maps where critical process handshakes break down. Data fields show a profound risk correlation inside our corporate lines, where **SWIFT transfers face a 26.7% failure rate within CASA products and 24.1% in FX processing**:
 
-![Regional and Channel Failure Rates](regional_stp_rates.png)
+![Failure Rate Heatmap Matrix](dashboard_heatmap.png)
 
-### B. Ingestion Inefficiencies & Resolution Latencies
-Our diagnostic mapping isolates processing channel failures by product type, revealing critical bottlenecks within SWIFT file ingestion and high-value compliance holds:
+### B. Core Vulnerability Profile & Resolution Latency
+This analysis isolates the raw volume of failures against the total business days required for operations desks to manually investigate and resolve them:
 
-![Channel Failures and Failure Code Breakdown](channel_failures.png)
+![Failure Profiles and Latencies](dashboard_breakdown.png)
 
 *Detailed code parameters, execution blocks, and raw data frames can be reviewed directly inside the [Interactive Analytical Notebook](./APAC_Banking_Ops_Analysis.ipynb).*
 
