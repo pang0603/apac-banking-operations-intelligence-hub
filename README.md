@@ -1,7 +1,4 @@
 # APAC Banking Operations Intelligence Hub
-**Candidate Portfolio Asset** | Target Role: Digital Transformation Business Analyst (OCBC Alignment)  
-**Author:** Chelsea Pang Kiat Si
-
 ---
 
 ## 1. Executive Summary & Operational Problem Statement
