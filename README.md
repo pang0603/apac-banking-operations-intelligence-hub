@@ -1,6 +1,4 @@
 # APAC Banking Operations Intelligence Hub
----
-
 ## 1. Executive Summary & Operational Problem Statement
 This repository hosts a self-contained operational intelligence pipeline designed to simulate, analyze, and optimize core cross-border payment processing across major APAC hubs (**Singapore, Malaysia, Thailand, and Indonesia**). 
 
